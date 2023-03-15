@@ -1,3 +1,6 @@
+### Archiviation notes
+The PRs submitted were merged and this is now an archived repository. It was never meant to be a permanent fork of superfecta.
+
 ```
  ______             _____  ______   __
 |  ____|           |  __ \|  _ \ \ / /
